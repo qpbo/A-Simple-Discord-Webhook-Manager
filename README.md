@@ -576,7 +576,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ### 🌟 Si este proyecto te fue útil, considera darle una estrella! ⭐
 
-[![Star on GitHub](https://img.shields.io/github/stars/tu-usuario/discord-webhook-multitool?style=social)](https://github.com/tu-usuario/discord-webhook-multitool)
+[![Star on GitHub](https://img.shields.io/github/stars/qpbo/A-Simple-Discord-Webhook-Manager?style=social)](https://github.com/qpbo/A-Simple-Discord-Webhook-Manager)
 
 ---
 
