@@ -531,7 +531,6 @@ Si encuentras un bug, por favor abre un [issue](https://github.com/tu-usuario/di
 ### Desarrollado con ❤️ por **Carliyo**
 
 [![GitHub](https://img.shields.io/badge/GitHub-@Carliyo-181717?style=for-the-badge&logo=github)](https://github.com/qpbo)
-[![Discord](https://img.shields.io/badge/Discord-Carliyo%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 **Versión:** 1.0.0  
 **Año:** 2025  
