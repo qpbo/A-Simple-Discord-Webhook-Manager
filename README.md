@@ -180,7 +180,7 @@ python --version
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/tu-usuario/discord-webhook-multitool.git
+git clone https://github.com/qpbo/A-Simple-Discord-Webhook-Manager
 
 # 2. Accede al directorio
 cd discord-webhook-multitool
