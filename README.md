@@ -21,7 +21,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/Maintained-Yes-brightgreen?style=flat-square" alt="Maintained">
+<img src="https://img.shields.io/badge/Maintained-No-red?style=flat-square" alt="Maintained">
 <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square" alt="Version">
 <img src="https://img.shields.io/badge/Built%20with-❤️-red?style=flat-square" alt="Built with Love">
 
@@ -441,7 +441,7 @@ Esta herramienta ha sido desarrollada **exclusivamente con fines educativos, de 
 ### 📜 Disclaimer
 
 - ✅ **Uso permitido:** Webhooks de tu propiedad, entornos de testing, auditorías autorizadas
-- ❌ **Uso prohibido:** Webhooks ajenos sin permiso, ataques DoS, spam malicioso, violación de ToS
+- ❌ **Uso prohibido:** Webhooks ajenos sin permiso y spam malicioso
 
 ### 🚨 Responsabilidad
 
@@ -534,7 +534,7 @@ Si encuentras un bug, por favor abre un [issue](https://github.com/tu-usuario/di
 
 **Versión:** 1.0.0  
 **Año:** 2025  
-**Mantenido:** Sí ✅
+**Mantenido:** No ❎
 
 </div>
 
